@@ -18,7 +18,6 @@
   <li><a href="underside1.html"> Subpage 1</a></li>
   <li><a href="underside2.html"> Subpage 2</a></li>
   <li><a href="underside3.html"> Subpage 3</a></li>
-  <li><a href="underside4.html"> Subpage 4</a></li>
 </ul>
 </nav>
 
@@ -26,7 +25,7 @@
   but something will be comming! </aside>
 
   <article>
-    <header><h2> This is my header for my indexpage.</h2> </header>
+    <header><h2> This is my header for my indexpage, now I have changed it a little.</h2> </header>
     <p> This is a paragraph for my indexpage, i want i to be a bit long,
       but I'm not that creative, so for now i will just go, bla, bla, bla, bla.. </p>
       </article>
